@@ -3,7 +3,7 @@ import gdown
 import zipfile
 
 UNITY_PATH = "android/unityLibrary"
-FILE_ID = "1EhUnpIFTEZ-4vx8bMd6yj_SgETvnOK6H"
+FILE_ID = "1iGIdYNbRsDjdzuK6dcgP2IlBf2ePEFhW"
 
 URL = f"https://drive.google.com/uc?id={FILE_ID}"
 
